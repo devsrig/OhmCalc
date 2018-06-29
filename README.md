@@ -13,5 +13,7 @@ Instruction to use
 1. Download the Code as zip file.
 2. Unzip the code to folder.
 3. Double Click on the solution file (OhmCalculator.sln)
+4. Restore the Nuget reference packages.
+5. Select (F5) to run the application.
 
 
